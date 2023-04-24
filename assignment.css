@@ -1,0 +1,98 @@
+header {
+  text-align: center;
+}
+
+body {
+  background-color: #F0FFF0;
+  text-align: center;
+}
+
+
+h1 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+/* Apply styles to the navigation menu */
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+{
+    background:rgba(0,0,0,.75);
+    border-radius:5px;
+    color:#FFF;
+    display:inline-block;
+    list-style:none;
+    margin:15px 15px 0 0;
+    padding:10px;
+    text-align:justify;
+  }
+nav li {
+  display: inline-block;
+  margin-right: 1rem;
+}
+
+nav a {
+  color: #333;
+  text-decoration: none;
+  padding: 0.5rem;
+  border-radius: 0.25rem;
+}
+
+nav a:hover {
+  background-color: #333;
+  color: #fff;
+}
+
+/* Apply styles to the education section */
+#education h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+#education ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+#education li {
+  margin-bottom: 0.5rem;
+}
+
+#education li strong {
+  font-weight: bold;
+  margin-right: 0.5rem;
+}
+
+/* Apply styles to the skills section */
+#skills h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+#skills ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  columns: 2;
+}
+
+#skills li {
+  margin-bottom: 0.5rem;
+}
+
+/* Apply styles to the contact section */
+#contact h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+#contact p {
+  margin-bottom: 0.5rem;
+}
+  
